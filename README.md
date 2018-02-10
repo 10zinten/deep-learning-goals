@@ -1,5 +1,13 @@
 # Deep Learning Goals:
 
+## TODO Deadlines:
+1. 1st, March, 2018:
+   	- [ ] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+	- [ ] [Intro to Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
+2. 14, March, 2018:
+   	- [ ] [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
+	- [ ] pyimagesearch computer vision tutorails -> Resource links
+
 ## Resource Links :
 
   - [Three part series on building a deep learning model server REST API with keras, Redis, Flask, Apache](https://www.pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/)
