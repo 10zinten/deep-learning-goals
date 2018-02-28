@@ -3,7 +3,7 @@
 ## TODO Deadlines:
 1. 1st, March, 2018:
    	- [x] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
-	- [ ] [Intro to Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
+	- [x] [Intro to Descriptive Statistics](https://classroom.udacity.com/courses/ud827)
 2. 14, March, 2018:
    	- [ ] [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 	- [ ] pyimagesearch computer vision tutorails -> Resource links
