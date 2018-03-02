@@ -7,6 +7,9 @@
 2. 14, March, 2018:
    	- [ ] [Introduction to Computer Vision](https://in.udacity.com/course/introduction-to-computer-vision--ud810)
 	- [ ] pyimagesearch computer vision tutorails -> Resource links
+3. 30th, March, 2018:
+	- [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) by [deeplearning.ai](https://deeplearning.ai) 
+	- [ ] [Practical Deep Learning For Coders, Part 1](http://course.fast.ai/lessons/lessons.html) by [fast.ai](http://www.fast.ai/)
 
 ## Resource Links :
 
